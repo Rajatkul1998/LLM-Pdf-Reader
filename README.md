@@ -15,11 +15,7 @@ This project harnesses the power of the GooglePalm Large Language Model (LLM) to
 ## Installation:
 
 Ensure required dependencies are installed using the provided requirements.txt.
-Set up GooglePalm LLM, Langchain, and FAISS libraries according to their respective documentation.
-Configuration:
 
-Adjust configuration files to specify PDF data sources, model parameters, and other settings.
-Run the System:
 
 ## Dependencies:
 * GooglePalm LLM
