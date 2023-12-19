@@ -22,9 +22,10 @@ Adjust configuration files to specify PDF data sources, model parameters, and ot
 Run the System:
 
 ## Dependencies:
-GooglePalm LLM
-Langchain Library
-FAISS Library
-Other dependencies specified in requirements.txt
-Contribution Guidelines:
-We welcome contributions and bug reports. Please follow the established guidelines in the CONTRIBUTING.md file.
+* GooglePalm LLM
+* Langchain Library
+* FAISS Library
+* Other dependencies specified in requirements.txt
+
+## Contribution Guidelines:
+We welcome contributions and bug reports. 
