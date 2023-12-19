@@ -2,7 +2,7 @@
 ## Project Overview:
 This project harnesses the power of the GooglePalm Large Language Model (LLM) to extract information from uploaded PDF files and deliver precise answers to user queries. Employing Langchain and FAISS libraries enhances the system's capabilities, ensuring a robust question-answering mechanism. The process involves generating instruct embeddings to capture contextual information, with these embeddings stored in a FAISS vector database. When users pose questions, the system efficiently searches the vector database, providing accurate answers by identifying similar matching vectors.
 
-![Screenshot](llm photo.png)
+<img src="llm photo.png" title="Screenshot">
 
 ## Key Features:
 <strong>GooglePalm LLM Integration: </strong>Utilizes the advanced language modeling capabilities of GooglePalm to understand and process PDF data effectively.
